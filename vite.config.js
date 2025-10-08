@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Sunday-Roles/", // Your repo name with slashes
+  base: "/Sunday-Roles-2025-26/", // <-- ADD THIS
 });
